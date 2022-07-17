@@ -7,6 +7,8 @@ Listen to music with friends, together! Colaborate and maintain a playlist with 
 ## Try it yourself
 
 [friendzone.live](https://friendzone.live) (hosted on heroku)
+sorry i have lost that account and now herouku asking for perimum membership.
+hope you understand
 
 ## Features
 
